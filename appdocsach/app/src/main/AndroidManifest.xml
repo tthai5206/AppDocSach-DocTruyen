@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.appdoctruyen">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Appdoctruyen">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".MainCapNhat"></activity>
+        <activity android:name=".MainXemDanhGia" />
+        <activity android:name=".MainChiaSe" />
+        <activity android:name=".MainDanhGia" />
+        <activity android:name=".ManDangBai" />
+        <activity android:name=".model.main.ManAdmin" />
+        <activity android:name=".model.main.MainThongTin" />
+        <activity android:name=".ManNoiDung" />
+        <activity android:name=".ManTimKiem" />
+        <activity android:name=".ManDangKy" />
+
+        <activity android:name=".ManDangNhap">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Android Project/appdoctruyen/app/src/main/res/layout/activity_man_dang_nhap.xml" value="0.13451086956521738" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable-v24/botron3.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable-v24/botron4.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable-v24/ic_baseline_image_not_supported_24.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable-v24/ic_email.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable-v24/ic_image.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable-v24/ic_loadingpleasewait.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable-v24/ic_matkhau.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable-v24/ic_taikhoan.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/botron.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/botron1.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/botron2.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/customer_tv_noidung.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/ic_ab.xml" value="0.1609375" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.2890625" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/ic_baseline_post_add_24.xml" value="0.2890625" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.146875" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/ic_pass.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/ic_person.xml" value="0.1609375" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/ic_search.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/drawable/themtruyen.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_main_cap_nhat.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_main_chia_se.xml" value="0.22" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_main_danh_gia.xml" value="0.22" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_main_tat_ca_truyen.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_main_thong_tin.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_main_wait.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_main_xem_danh_gia.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_main_yeu_thich.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_man_admin.xml" value="0.18" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_man_dang_bai.xml" value="0.15" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_man_dang_ky.xml" value="0.19" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_man_dang_nhap.xml" value="0.2" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_man_nguoi_dung.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_man_noi_dung.xml" value="0.22" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_man_thong_tin.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_man_tim_kiem.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_man_tk.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/activity_man_user.xml" value="0.25" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/chuyen_muc.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/chuyenmuc.xml" value="0.15" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/custum_danhgia.xml" value="0.22" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/dialogdeleteyeuthich.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/fragment_account_fragmment.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/fragment_dangbai.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/fragment_home.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/fragment_nguoidung.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/fragment_tatcatruyen.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/fragment_thongtinapp.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/fragment_yeuthich.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/item_truyenv2.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/navigation_thongtin.xml" value="0.25" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/newtruyen.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/layout/tbdelete.xml" value="0.1" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/menu/menunguoidung.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/menu/mymenu.xml" value="0.25" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/menu/navigation.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Vina/AndroidStudioProjects/appdoctruyen/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2890625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
