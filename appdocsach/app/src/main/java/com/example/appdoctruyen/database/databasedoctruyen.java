@@ -109,7 +109,7 @@ public class databasedoctruyen extends SQLiteOpenHelper{
             "Khơi gợi tinh thần vượt lên thử thách.\n" +
             "\n\n" +
             "\n" +
-            "','https://eccthai.com/wp-content/uploads/2021/01/sach-dac-nhan-tam-dale-carnegie.jpg',1)";
+            "','https://tiki.vn/blog/wp-content/uploads/2023/08/noi-dung-chinh-dac-nhan-tam-1024x682.jpg',1)";
 
     public databasedoctruyen(@Nullable Context context) {
         super(context, DATABASE_NAME, null, VERSION);
@@ -138,7 +138,7 @@ public class databasedoctruyen extends SQLiteOpenHelper{
             "Bởi lẽ, việc bạn cần làm bây giờ là chấm dứt những nỗi lo lắng đó đi, hướng về tương lai với những điều tốt đẹp hơn đang chờ đón. Nếu bạn cần người chia sẻ ư, cuốn sách sẽ an ủi những dòng suy nghĩ rối bời của bạn, xóa tan những âu lo vụn vặt hằng ngày.\n" +
             "\n" +
             "Bởi lẽ, mọi chuyện đều sẽ ổn thôi! Tại sao không để nó sang một bên và mỉm cười?\n" +
-            "Ắt hẳn...','https://kinhtechungkhoan.vn/stores/news_dataimages/sinhnguyen/122018/12/16/1711_SONG1.jpg',1)";
+            "Ắt hẳn...','https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630656193i/35898362.jpg',1)";
     private String SQLQuery0000= "INSERT INTO truyen VALUES (null,'Hãy Sống Cuộc Đời Như Bạn Muốn','Giới thiệu\n" +
             "Đây không phải là một cuốn sách dành riêng cho một người, mà là rất nhiều người…\n" +
             "\n" +
@@ -156,7 +156,7 @@ public class databasedoctruyen extends SQLiteOpenHelper{
             "Bởi lẽ, việc bạn cần làm bây giờ là chấm dứt những nỗi lo lắng đó đi, hướng về tương lai với những điều tốt đẹp hơn đang chờ đón. Nếu bạn cần người chia sẻ ư, cuốn sách sẽ an ủi những dòng suy nghĩ rối bời của bạn, xóa tan những âu lo vụn vặt hằng ngày.\n" +
             "\n" +
             "Bởi lẽ, mọi chuyện đều sẽ ổn thôi! Tại sao không để nó sang một bên và mỉm cười?\n" +
-            "Ắt hẳn...','https://www.khaitam.com/Data/Sites/1/Product/3381/di-tim-y-nghia-cuoc-song.jpg',1)";
+            "Ắt hẳn...','https://cdn1.fahasa.com/media/flashmagazine/images/page_images/di_tim_y_nghia_cuoc_song/2021_06_11_16_13_12_1-390x510.jpg',1)";
     private String SQLQuery000000= "INSERT INTO truyen VALUES (null,'Đọc Vị Bất Kỳ Ai','Giới thiệu\n" +
             "Đây không phải là một cuốn sách dành riêng cho một người, mà là rất nhiều người…\n" +
             "\n" +
@@ -165,7 +165,7 @@ public class databasedoctruyen extends SQLiteOpenHelper{
             "Bởi lẽ, việc bạn cần làm bây giờ là chấm dứt những nỗi lo lắng đó đi, hướng về tương lai với những điều tốt đẹp hơn đang chờ đón. Nếu bạn cần người chia sẻ ư, cuốn sách sẽ an ủi những dòng suy nghĩ rối bời của bạn, xóa tan những âu lo vụn vặt hằng ngày.\n" +
             "\n" +
             "Bởi lẽ, mọi chuyện đều sẽ ổn thôi! Tại sao không để nó sang một bên và mỉm cười?\n" +
-            "Ắt hẳn...','https://ghiensach.com/wp-content/uploads/2022/07/review-sach-doc-vi-bat-ky-ai.jpg',1)";
+            "Ắt hẳn...','https://file.hstatic.net/200000122283/file/review-sach-doc-vi-bat-ky-ai-1_20163e22585e444eb4560f3bd095fa9b_grande.jpg',1)";
 //
 private String SQLQuery11= "INSERT INTO truyen VALUES (null,'Hạt giống tâm hồn','Giới thiệu\n" +
         "Đây không phải là một cuốn sách dành riêng cho một người, mà là rất nhiều người…\n" +
