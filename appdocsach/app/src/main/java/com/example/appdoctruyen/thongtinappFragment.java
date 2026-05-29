@@ -12,9 +12,9 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 /**
- * A simple {@link Fragment} subclass.
- * Use the {@link thongtinappFragment#newInstance} factory method to
- * create an instance of this fragment.
+ * Một lớp Fragment đơn giản kế thừa từ Fragment.
+ * Sử dụng phương thức {@link thongtinappFragment#newInstance}
+ * để tạo một đối tượng (instance) của Fragment này.
  */
 public class thongtinappFragment extends Fragment {
 
@@ -32,12 +32,12 @@ public class thongtinappFragment extends Fragment {
     }
 
     /**
-     * Use this factory method to create a new instance of
-     * this fragment using the provided parameters.
+     * Sử dụng phương thức này để tạo một đối tượng mới.
+     * của Fragment và truyền vào các tham số cần thiết.
      *
-     * @param param1 Parameter 1.
-     * @param param2 Parameter 2.
-     * @return A new instance of fragment thongtinappFragment.
+     * @param param1 Tham số thứ nhất.
+     * @param param2 Tham số thứ hai.
+     * @return Trả về một đối tượng mới của Fragment thongtinappFragment.
      */
     // TODO: Rename and change types and number of parameters
     public static thongtinappFragment newInstance(String param1, String param2) {
