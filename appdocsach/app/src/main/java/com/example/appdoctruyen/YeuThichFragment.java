@@ -30,7 +30,9 @@ import java.util.ArrayList;
 
 
 /**
- * A simple {@link Fragment} subclass.
+
+ * Một lớp con đơn giản của {@link Fragment}.
+
  */
 public class YeuThichFragment extends Fragment {
     RecyclerView listViewNew;
