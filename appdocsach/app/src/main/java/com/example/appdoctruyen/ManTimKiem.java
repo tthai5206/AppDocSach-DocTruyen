@@ -26,8 +26,8 @@ import java.util.ArrayList;
 public class ManTimKiem extends AppCompatActivity {
 
     RecyclerView listView;
-    //Toolbar toolbar;
-    //SearchView searchView;
+    // Khai báo đối tượng Thanh công cụ (Toolbar).
+// Khai báo đối tượng Ô/Tiện ích tìm kiếm (SearchView).
     EditText edt;
 
     ArrayList<Truyen> TruyenArrayList;
