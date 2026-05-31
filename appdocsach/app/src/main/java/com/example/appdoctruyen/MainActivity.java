@@ -91,8 +91,9 @@ public class MainActivity extends AppCompatActivity {
 
         List<MenuItem> menuItems = new ArrayList<>();
 
-        //Use the MenuItem given by this library and not the default one.
-        //First parameter is the title of the menu item and then the second parameter is the image which will be the background of the menu item.
+        // Sử dụng MenuItem được cung cấp bởi thư viện này thay vì MenuItem mặc định.
+// Tham số thứ nhất là tiêu đề của mục menu,
+// tham số thứ hai là hình ảnh được dùng làm nền cho mục menu đó.
 
         menuItems.add(new MenuItem("Home",R.drawable.news_bg));
         menuItems.add(new MenuItem("Quản lý tác phẩm",R.drawable.feed_bg));

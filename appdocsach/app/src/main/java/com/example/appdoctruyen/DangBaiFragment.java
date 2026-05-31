@@ -118,7 +118,7 @@ public class DangBaiFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
+        // "Chuyển đổi (inflate) bố cục giao diện được định nghĩa trong file XML thành các đối tượng View để hiển thị trên Fragment."
         return inflater.inflate(R.layout.fragment_dangbai, container, false);
     }
 
