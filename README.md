@@ -58,3 +58,4 @@ Dữ liệu của ứng dụng được quản lý bằng SQLite, giúp lưu tr�
 - Quản lý dữ liệu truyện bằng SQLite.
 - Hỗ trợ tìm kiếm, yêu thích và đánh giá truyện.
 - Ứng dụng hoạt động ổn định trên Android Emulator và thiết bị Android thực tế.
+-Link chạy video chạy demo app: https://drive.google.com/file/d/1dgw-NHV6Lw_Gqw69UdDsnV-kmzKIln_r/view?usp=drive_link
