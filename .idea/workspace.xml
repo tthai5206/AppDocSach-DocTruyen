@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2690bf46-a466-4510-84b0-8a3971a71060" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122214.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122245.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122303.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122321.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122355.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122448.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122523.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122536.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122554.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122625.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122741.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122832.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appdocsach/pic/Screenshot_20221229_122851.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +36,16 @@
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/AppDocSach-DocTruyen&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/AppDocSach-DocTruyen/appdocsach/app/src/main/java/com/example/appdoctruyen/database&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AppDocSach-DocTruyen\appdocsach\app\src\main\java\com\example\appdoctruyen\database" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
